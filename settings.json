@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "nose-vJFw.aternos.me",
-    "port": 41590,
+    "ip": "Craftland-zFwl.aternos.me",
+    "port"::30053,
     "version": "",
     "try-creative": false
   },
