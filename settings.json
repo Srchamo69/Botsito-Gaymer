@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "GalaxyLatam.aternos.me",
-    "port"::13716,
+    "ip": "GalaxyLatam.aternos.me"
+    "port"::13716
     "version": "1.21.4",
     "try-creative": false
   },
