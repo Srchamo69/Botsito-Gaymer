@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Craftland-zFwl.aternos.me",
-    "port"::30053,
-    "version": "",
+    "ip": "GalaxyLatam.aternos.me",
+    "port"::13716,
+    "version": "1.21.4",
     "try-creative": false
   },
   "position": {
