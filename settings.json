@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "GalaxyLatam.aternos.me"
-    "port"::13716
+    "port":: 13716
     "version": "1.21.4",
     "try-creative": false
   },
