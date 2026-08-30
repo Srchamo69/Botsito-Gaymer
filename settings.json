@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "UsuarioNormal",
+    "username": "1Slobot9999",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "GalaxyLatam.aternos.me",
     "port": 13716,
-    "version": "26.2",
+    "version": "1.21.4",
     "try-creative": false
   },
   "position": {
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "1234"
+      "password": "CAMBIA_ESTA_CONTRASEÑA"
     },
     "anti-afk": {
       "enabled": true,
@@ -32,7 +32,7 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to glitch_of!",
+        "Subscribe to Slobos!",
         "I like to play Minecraft!"
       ]
     },
